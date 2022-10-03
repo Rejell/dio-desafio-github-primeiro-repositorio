@@ -1,0 +1,20 @@
+_Lógica do Git
+
+
+
+                         |------------- Traked --------------|
+
+Untraked            unmodified          Modified          Staged
+
+   |----------------- Adiciona o arquivo ------------------->|
+
+                         |-- Edita o arquivo -->|
+
+   |- Remove o arquivo ->|
+
+                         |<-------- Commit ------------------|
+                         
+
+
+
+untraked -- (git add) --> stage -- (git commit) --> unmodified
