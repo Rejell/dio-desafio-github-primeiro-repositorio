@@ -6,3 +6,4 @@ Repositório criado para o Desafio de Projeto.
  - [Dillinger - Online Markdown Editor](https://dillinger.io/)
  - [IntelliJ IDEA: Community](https://www.jetbrains.com/idea/download/#section=windows)
  - [Eclipse IDE: Community](https://www.eclipse.org/downloads/)
+ - [Java: Open JDK azul](https://www.azul.com/downloads/?package=jdk#download-openjdk)
